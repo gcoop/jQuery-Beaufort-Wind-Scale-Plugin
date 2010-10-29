@@ -168,7 +168,7 @@
 							$e.css("top", '-'+($e.outerHeight() + cH)+'px');	
 						}).attr('title', 'Example sea state at force '+obj.i)
 						  .attr('alt',	'Example sea state at force '+obj.i)
-						  .attr('src', '/images/b'+obj.i+'.jpg');
+						  .attr('src', 'images/b'+obj.i+'.jpg');
 						
 						curr = obj.i;
 					}
