@@ -26,3 +26,7 @@ Then include jQuery and `jquery.beaufortwind.js` plugin file (don't forget the c
 Where Did We Get The Information From?
 ---------------------------------------
 All the information about the Beaufort scale was from [Wikipedia](http://en.wikipedia.org/wiki/Beaufort_scale)
+
+Supports
+---------------------------------------
+Currentely only tested in Firefox 3.0+
